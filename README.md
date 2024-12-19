@@ -1,3 +1,29 @@
+## raspimouse_slam_navigation_ros2 (jazzy) - 3.0.0-1
+
+The packages in the `raspimouse_slam_navigation_ros2` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy raspimouse_slam_navigation_ros2 --override-release-repository-push-url git@github.com:revyos-ros/raspimouse_slam_navigation_ros2-release.git` on `Thu, 19 Dec 2024 08:05:07 -0000`
+
+These packages were released:
+- `raspimouse_navigation`
+- `raspimouse_slam`
+- `raspimouse_slam_navigation`
+
+Version of package(s) in repository `raspimouse_slam_navigation_ros2`:
+
+- upstream repository: https://github.com/rt-net/raspimouse_slam_navigation_ros2.git
+- release repository: https://github.com/revyos-ros/raspimouse_slam_navigation_ros2-release.git
+- rosdistro version: `3.0.0-1`
+- old version: `null`
+- new version: `3.0.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## raspimouse_slam_navigation_ros2 (humble) - 2.1.0-1
 
 The packages in the `raspimouse_slam_navigation_ros2` repository were released into the `humble` distro by running `/usr/bin/bloom-release --rosdistro humble raspimouse_slam_navigation_ros2` on `Wed, 06 Mar 2024 09:34:56 -0000`
